@@ -1,0 +1,7 @@
+C:\Users\adrie\OneDrive\Área de Trabalho\SMN\CursoCSharp\CSharp-Atividades\CSharp-Atividades\Composition\CompositionExercise\obj\Debug\CompositionExercise.csproj.AssemblyReference.cache
+C:\Users\adrie\OneDrive\Área de Trabalho\SMN\CursoCSharp\CSharp-Atividades\CSharp-Atividades\Composition\CompositionExercise\obj\Debug\CompositionExercise.csproj.CoreCompileInputs.cache
+C:\Users\adrie\OneDrive\Área de Trabalho\SMN\CursoCSharp\CSharp-Atividades\CSharp-Atividades\Composition\CompositionExercise\bin\Debug\CompositionExercise.exe.config
+C:\Users\adrie\OneDrive\Área de Trabalho\SMN\CursoCSharp\CSharp-Atividades\CSharp-Atividades\Composition\CompositionExercise\bin\Debug\CompositionExercise.exe
+C:\Users\adrie\OneDrive\Área de Trabalho\SMN\CursoCSharp\CSharp-Atividades\CSharp-Atividades\Composition\CompositionExercise\bin\Debug\CompositionExercise.pdb
+C:\Users\adrie\OneDrive\Área de Trabalho\SMN\CursoCSharp\CSharp-Atividades\CSharp-Atividades\Composition\CompositionExercise\obj\Debug\CompositionExercise.exe
+C:\Users\adrie\OneDrive\Área de Trabalho\SMN\CursoCSharp\CSharp-Atividades\CSharp-Atividades\Composition\CompositionExercise\obj\Debug\CompositionExercise.pdb
